@@ -12,11 +12,12 @@
 	],
 	"Plugins": [
 		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
+		},
+		{
 			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
+			"Enabled": true
 		}
 	]
 }
