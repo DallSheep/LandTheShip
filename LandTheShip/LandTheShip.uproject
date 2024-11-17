@@ -7,7 +7,11 @@
 		{
 			"Name": "LandTheShip",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"UMGEditor",
+				"UMG"
+			]
 		}
 	],
 	"Plugins": [
